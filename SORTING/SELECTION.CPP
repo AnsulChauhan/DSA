@@ -31,3 +31,16 @@ int main(){
   
 
 }
+
+
+/*
+output - 4 3 2 1 0 
+output - 0 1 2 3 4
+
+
+time complexity = O(n^2)
+
+best case = already sorted = O(n^2)
+worst case= O(n^2)
+
+*/
